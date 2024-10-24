@@ -9,7 +9,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/kkgthb/web-site-astro-02-movable-git.git"
+        "url": "git+https://github.com/kkgthb/web-site-astro-02-movable.git"
     },
     "scripts": {
         "dev": "astro dev --host",
